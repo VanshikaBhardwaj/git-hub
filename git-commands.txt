@@ -1,0 +1,8 @@
+				GIT COMMANDS
+
+git init : git init creates a new Git repository, can be used to convert an existing, unversioned project to a Git repo, or initialize a new, empty repo.
+git commit : This command is used to make the changes made permanent in a repository
+git status : The git status command is used to examine the current state of the repository and can be used to confirm a git add promotion.
+git add : It is used to promote pending changes from the working directory to the staging area.
+git config --global user.name and git config --global user.email : This command is used to introduce ourself to git.
+git remote add origin : This is used to connect git repository to github.
